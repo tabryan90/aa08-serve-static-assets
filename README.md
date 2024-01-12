@@ -1,0 +1,1 @@
+# aa08-serve-static-assets-temp
